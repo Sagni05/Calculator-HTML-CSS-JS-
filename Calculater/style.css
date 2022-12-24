@@ -1,0 +1,26 @@
+#start{
+    text-align: center;
+    background-color: rgb(192, 255, 239);
+    font-family: "Trirong", serif;
+}
+#second{
+    background-color: white;
+    width: 480px;
+    height: 600px;
+}
+#third{
+    background-color: rgb(15, 15, 127);
+    color: rgb(202, 195, 195);
+}
+.btn{
+    background-color: rgb(145, 41, 41);
+}
+.btn a {
+    color: rgb(216, 221, 223);
+    text-decoration: none;
+}
+.form{
+    padding-left: 35%;
+    padding-top: 5%;
+    
+}
